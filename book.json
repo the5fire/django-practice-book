@@ -1,0 +1,26 @@
+{
+  "title": "Django企业开发实战教程",
+  "description": "Django是一个脱胎于新闻系统中的用于生产环境开发的框架，是开发者不可或缺的Web项目开发利器。",
+  "language": "zh-cn",
+  "gitbook": "3.x.x",
+  "plugins": [
+    "github",
+    "baidu",
+    "ad"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/the5fire/django-practice-book"
+    },
+    "baidu": {
+      "token": "2d07b6b466a61c6c12550d39c53f4ad0"
+    },
+    "ad": {
+      "contentTop": "<div class='pull-right'>Created by <a href='http://www.the5fire.com'>the5fire</a></div>",
+      "contentBottom": "《Django企业开发实战》 -- by <a href='http://www.the5fire.com'>the5fire</a>"
+    },
+    "sitemap": {
+      "hostname": "http://www.the5fire.com"
+    }
+  }
+}
