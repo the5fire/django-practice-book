@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>学员管理系统-by the5fire</title>
+    </head>
+    <style>
+        .errorlist {
+            color: red;
+        }
+    </style>
+    <body>
+        <a href='/admin/'>Admin</a>
+        <ul>
+        {% for student in students %}
+            <li> {{ student.name }} - {{ student.get_status_display }}</li>
+        {% endfor %}
+        </ul>
+        <hr/>
+        <form action="/" method="post">
+            {% csrf_token %}
+            {{ form }}
+            <input type="submit" value="Submit" />
+        </form>
+    </body>
+</html>

@@ -5,14 +5,14 @@
   "gitbook": "3.x.x",
   "plugins": [
     "github",
-    "baidu",
+    "3-ba",
     "ad"
   ],
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/the5fire/django-practice-book"
     },
-    "baidu": {
+    "3-ba": {
       "token": "2d07b6b466a61c6c12550d39c53f4ad0"
     },
     "ad": {

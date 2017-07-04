@@ -19,3 +19,6 @@
 
 * [第三章 - Django小试牛刀](chapter3/README.md)
   * [第一节 - 如何读Django文档](chapter3/section1.md)
+  * [第二节 - Model和Admin](chapter3/section2.md)
+  * [第三节 - 前台开发](chapter3/section3.md)
+  * [第四节 - 进阶部分:CBV、Middleware、TestCase](chapter3/section4.md)
