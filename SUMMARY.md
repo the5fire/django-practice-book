@@ -22,3 +22,28 @@
   * [第二节 - Model和Admin](chapter3/section2.md)
   * [第三节 - 前台开发](chapter3/section3.md)
   * [第四节 - 进阶部分:CBV、Middleware、TestCase](chapter3/section4.md)
+
+## *第二部分* 正式开发
+* [概括]
+
+* [第四章 - 进入开发](chapter4/README.md)
+  * [第一节 编码规范](chapter4/section1.md)
+  * [第二节 虚拟环境](chapter4/section2.md)
+  * [第三节 项目结构](chapter4/section3.md)
+  * [第四节 版本管理与协作(Git)](chapter4/section4.md)
+
+* [第五章 - 奠定项目基石-Model](chapter5/README.md)
+  * [第一节 创建项目配置settings](chapter5/section1.md)
+  * [第二节 编写Model](chapter5/section2.md)
+  * [第三节 Model层Fields总结](chapter5/section3.md)
+  * [第四节 Model层-QuerySet总结](chapter5/section4.md)
+
+* [第六章 - 开发管理后台](chapter6/README.md)
+  * [第一节 配置Admin](chapter6/section1.md)
+  * [第二节 根据需求进行定制](chapter6/section2.md)
+    * 定制site
+    * 定义list页面
+    * 定制编辑页面
+    * 自定义展示字段
+    * 配置adminform
+    * 自定义admin方法
