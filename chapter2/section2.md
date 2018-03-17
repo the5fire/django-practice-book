@@ -168,9 +168,9 @@ WSGI，全称是Web Server Gateway Interface（Web服务网关接口）。
 
 对比下一开始我们通过socket写的server，这个就是一个最基本的HTTP响应了。如果输出给浏览器，浏览器会展示出`Hello world! -by the5fire`的字样。
 
-我们再通过另外一种方式来运行我们的Application，用到的这个工具就是gunicorn。你可以先通过命令`pip install gunicron`进行安装。
+我们再通过另外一种方式来运行我们的Application，用到的这个工具就是gunicorn。你可以先通过命令`pip install gunicorn`进行安装。
 
-安装完成之后，进入到app.py脚本的目录。通过命令: `gunicorn app:simle_app` 来启动程序。这里的gunicron就是一个Web Server。启动之后会看到如下输出:
+安装完成之后，进入到app.py脚本的目录。通过命令: `gunicorn app:simle_app` 来启动程序。这里的gunicorn就是一个Web Server。启动之后会看到如下输出:
 
     [2017-06-10 22:52:01 +0800] [48563] [INFO] Starting gunicorn 19.4.5
     [2017-06-10 22:52:01 +0800] [48563] [INFO] Listening at: http://127.0.0.1:8000 (48563)
@@ -262,8 +262,8 @@ WSGI协议规定，application必须是一个callable对象，这意味这个对
 ## 参考文档
 
 * [Python CGI](https://www.the5fire.com/python-project6-cgi.html)
-* [gunicron-sync源码](https://github.com/benoitc/gunicorn/blob/master/gunicorn/workers/sync.py#L176)
-* [gunicron-wsgi部分代码](https://github.com/benoitc/gunicorn/blob/master/gunicorn/http/wsgi.py#L241)
+* [gunicorn-sync源码](https://github.com/benoitc/gunicorn/blob/master/gunicorn/workers/sync.py#L176)
+* [gunicorn-wsgi部分代码](https://github.com/benoitc/gunicorn/blob/master/gunicorn/http/wsgi.py#L241)
 * [PEP3333中文](http://pep-3333-wsgi.readthedocs.io/en/latest/)
 * [PEP3333英文](https://www.python.org/dev/peps/pep-3333/)
 * [Werkzeug官网](http://werkzeug.pocoo.org/)
