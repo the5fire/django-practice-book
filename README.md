@@ -1,8 +1,20 @@
-# 《Django企业开发实战》 -- by the5fire
+# 《Django企业开发实战》初版草稿 -- by the5fire
 
 * 博客: https://www.the5fire.com  
 * github: https://github.com/the5fire/django-practice-book
 * 配套视频: [视频版](course.md)
+
+## 正式版预售中
+
+[![Django企业开发实战](http://file.ituring.com.cn/SmallCover/19014dfb7e0e331be8db)](http://www.ituring.com.cn/book/2663)
+[图灵社区购买](http://www.ituring.com.cn/book/2663)
+
+## 疑惑解答
+
+* 问：视频和图书有什么差别
+* 答：
+    * 图书是在视频之后产出的，基于Python3.6 和 Django 1.11（LTS版本），在书最后会升级到Django 2.0，内容上会更加细致。
+    * 视频是基于Python 2.7和Django 1.11（LTS版本） 的版本，最终会升级到 Python3.6 和 Django2.0，内容上会更加动态，信息量会更大，毕竟书上不能带着你写代码，视频是可以非常直观的演示代码编写的。
 
 ## 前言
 
