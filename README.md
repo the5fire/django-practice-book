@@ -5,9 +5,12 @@
 * 配套视频: [视频版](course.md)
 
 ## 正式版预售中
+购买：
+
+* [图灵社区-目录和试读](http://www.ituring.com.cn/book/2663)
 
 [![Django企业开发实战](http://file.ituring.com.cn/SmallCover/19014dfb7e0e331be8db)](http://www.ituring.com.cn/book/2663)
-[图灵社区购买](http://www.ituring.com.cn/book/2663)
+
 
 ## 疑惑解答
 
