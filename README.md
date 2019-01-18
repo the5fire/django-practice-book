@@ -18,9 +18,21 @@
 
 ## 提交勘误
 
-如果您发现*纸质书籍*中存在问题，欢迎提交勘误，步骤如下:
+如果你发现*纸质书籍*中存在问题，欢迎提交勘误，步骤如下:
 * 1. 指明具体「章节」「页码」出错的部分代码或者相关信息
 * 2. 点击[创建 Issues](https://github.com/the5fire/django-practice-book/issues/new) 来填下上面的信息。
+
+## 随书源码 && 随视频源码
+
+本书对应源码和相关视频对应源码都在：
+
+[https://github.com/the5fire/typeidea](https://github.com/the5fire/typeidea)
+
+通过分支名来区分是视频还是图书，以及对应的章节，比如：
+
+分支 ``book/05-initproject`` 就是对应的图书的第五章的代码，``book/06-admin`` 就是对应的第六章的代码。
+而对应的 ``chapter7``、``chapter8``这样的是视频章节对应的代码。
+
 
 ## 前言
 
