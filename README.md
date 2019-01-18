@@ -19,8 +19,8 @@
 ## 提交勘误
 
 如果你发现*纸质书籍*中存在问题，欢迎提交勘误，步骤如下:
-* 1. 指明具体「章节」「页码」出错的部分代码或者相关信息
-* 2. 点击[创建 Issues](https://github.com/the5fire/django-practice-book/issues/new) 来填下上面的信息。
+* 指明具体「章节」「页码」出错的部分代码或者相关信息
+* 点击[创建 Issues](https://github.com/the5fire/django-practice-book/issues/new) 来填些上面的信息。
 
 ## 随书源码 && 随视频源码
 
