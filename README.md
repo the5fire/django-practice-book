@@ -9,8 +9,12 @@
 
 * [图灵社区-目录和试读](http://www.ituring.com.cn/book/2663)
 
-[![Django企业开发实战](http://file.ituring.com.cn/SmallCover/19014dfb7e0e331be8db)](http://www.ituring.com.cn/book/2663)
+* [![Django企业开发实战](http://file.ituring.com.cn/SmallCover/19014dfb7e0e331be8db)](https://book.douban.com/subject/30434690/)
 
+* [图灵社区购买](http://www.ituring.com.cn/book/2663)
+* [京东购买](https://item.jd.com/12537842.html)
+* [当当网购买](http://product.dangdang.com/26509799.html)
+* [亚马逊购买](https://www.amazon.cn/dp/B07N3PVGZK/ref=sr_1_1?ie=UTF8&qid=1550195346&sr=8-1&keywords=Django%E4%BC%81%E4%B8%9A%E5%BC%80%E5%8F%91)
 
 ## 疑惑解答
 
