@@ -1,9 +1,12 @@
 # coding:utf-8
+"""
+代码需要在 Python 3 下执行
+"""
 
 import socket
 
-EOL1 = '\n\n'
-EOL2 = '\n\r\n'
+EOL1 = b'\n\n'
+EOL2 = b'\n\r\n'
 body = '''Hello, world! <h1> from the5fire 《Django企业开发实战》</h1>'''
 response_params = [
     'HTTP/1.0 200 OK',
@@ -12,15 +15,15 @@ response_params = [
     'Content-Length: {}\r\n'.format(len(body)),
     body,
 ]
-response = b'\r\n'.join(response_params)
+response = '\r\n'.join(response_params)
 
 
 def handle_connection(conn, addr):
-    request = ""
+    request = b""
     while EOL1 not in request and EOL2 not in request:
         request += conn.recv(1024)
     print(request)
-    conn.send(response)
+    conn.send(response.encode())
     conn.close()
 
 
