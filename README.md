@@ -3,9 +3,9 @@
 * 博客: https://www.the5fire.com  
 * github: https://github.com/the5fire/django-practice-book
 * 配套视频: [视频版](course.md)
+* 进阶视频: [Django源码分析视频](https://www.the5fire.com/django-source-inside-catalog-by-the5fire.html)
 
-## 正式版预售中
-购买：
+## 纸质版已上市
 
 * [图灵社区-目录和试读](http://www.ituring.com.cn/book/2663)
 
